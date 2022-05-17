@@ -23,7 +23,7 @@
 
 - ⚡ Fun fact **I think i'm not boring perosn.**
 
-- 🔭 I’m Full time Freelancer on **Upwork** , Here is My Profile URL [https://www.upwork.com/freelancers/~01b0bdb4d921c3a555] (https://www.upwork.com/freelancers/~01b0bdb4d921c3a555)
+- 🔭 I’m Full time Freelancer on **Upwork** , Here is My Profile URL [https://www.upwork.com/freelancers/~01b0bdb4d921c3a555] 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
