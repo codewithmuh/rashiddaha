@@ -19,7 +19,8 @@
 
 - 💬 Ask me about **React, Django, Project management**
 
-- 📫 How to reach me **rashiddaha80@gmail.com**
+- 📫 How to reach me via E-mail **rashiddaha80@gmail.com**
+- - 📫 How to reach me via Whatsapp **+923028072696**
 
 - ⚡ Fun fact **I think i'm not boring perosn.**
 
