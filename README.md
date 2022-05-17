@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Rashid</h1>
 <h3 align="center">A passionate frontend and Backend Developer From Pakistan, Expertise in Django, React and in Security Testing/Project Management.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rashiddaha" alt="rashiddaha" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rashiddaha80" target="blank"><img src="https://img.shields.io/twitter/follow/rashiddaha80?logo=twitter&style=for-the-badge" alt="rashiddaha80" /></a> </p>
 
