@@ -7,11 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/rashiddaha80" target="blank"><img src="https://img.shields.io/twitter/follow/rashiddaha80?logo=twitter&style=for-the-badge" alt="rashiddaha80" /></a> </p>
 
-- 🔭 I’m currently working on **Healthcare Project**
-
-- 🌱 I’m currently learning **Blockchain smart contract, NFT, Solidity and Hyperledger.**
-
-- 🤝 I’m looking for help with **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rashiddaha](https://github.com/rashiddaha)
 
