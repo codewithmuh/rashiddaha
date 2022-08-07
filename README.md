@@ -6,9 +6,9 @@
 
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/rashiddaha](https://github.com/rashiddaha)
+- 👨‍💻 All of my public projects are available at [Github](https://github.com/rashiddaha)
 
-- 📝 I regularly write articles on [https://www.facebook.com/MuhammadRashid06/](https://medium.com/@rashiddaha80)
+- 📝 I regularly write articles on [Medium](https://medium.com/@rashiddaha80)
 
 - 💬 Ask me about **React, Django, Project management**
 
