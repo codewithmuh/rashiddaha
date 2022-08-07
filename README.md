@@ -18,7 +18,7 @@
 - - 📫 How to reach me via Whatsapp **+923028072696**
 
 - ⚡ Fun fact **I think i'm not boring perosn.**
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?rashiddaha=Your_GitHub_Username&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rashiddaha&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
