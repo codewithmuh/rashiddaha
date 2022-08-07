@@ -19,7 +19,6 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=rashiddaha)
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rashiddaha&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rashiddaha&theme=blue-green)
 
