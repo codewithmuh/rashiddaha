@@ -20,6 +20,10 @@
 - ⚡ Fun fact **I think i'm not boring perosn.**
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=rashiddaha&show_icons=true)
 
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rashiddaha&theme=blue-green)
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=rashiddaha/Your_GitHub_Repository_Name)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rashiddaha80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashiddaha80" height="30" width="40" /></a>
