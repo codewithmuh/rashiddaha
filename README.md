@@ -22,7 +22,8 @@
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rashiddaha&theme=blue-green)
 
-![GitHub Contributors Image](https://contrib.rocks/image?repo=rashiddaha/Your_GitHub_Repository_Name)
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
