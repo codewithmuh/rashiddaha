@@ -13,7 +13,7 @@
 - 💬 Ask me about **React, Django, Project management**
 
 - 📫 How to reach me via E-mail **rashiddaha80@gmail.com**
-- - 📫 How to reach me via [Whatsapp](https://wa.me/<923028072696>)
+- - 📫 How to reach me via [Whatsapp](https://wa.me/+923028072696)
 
 - ⚡ Fun fact **I think i'm not boring perosn.**
 
