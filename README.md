@@ -7,6 +7,7 @@
 
 
 - 👨‍💻 All of my public projects are available at [Github](https://github.com/rashiddaha)
+- Hire me on [Upwork](https://www.upwork.com/freelancers/muhammadrashid80)
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@rashiddaha80)
 
