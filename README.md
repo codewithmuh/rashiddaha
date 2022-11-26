@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@rashiddaha80)
 
-- 💬 Ask me about **React, Django, Python, JavaScript**
+- 💬 Ask me about ** DevOps, AWS, React, Django, Python, JavaScript**
 
 - 📫 How to reach me via E-mail **rashiddaha80@gmail.com**
 - - 📫 How to reach me via [Whatsapp](https://wa.me/+923028072696)
