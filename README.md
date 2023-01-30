@@ -9,7 +9,7 @@
 - 👨‍💻 All of my public projects are available at [Github](https://github.com/rashiddaha)
 
 
-- 👨‍💻 You can watch my Videos at [YouTube](https://www.youtube.com/@muhammadrashiddaha/videos)
+- 👨‍💻 You can watch my Videos at [YouTube](https://www.youtube.com/@codewithmuh)
 
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@rashiddaha80)
