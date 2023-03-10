@@ -12,7 +12,7 @@
 - 👨‍💻 You can watch my Videos at [YouTube](https://www.youtube.com/@codewithmuh)
 
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@rashiddaha80)
+- 📝 I regularly write articles on [Medium](https://medium.com/@codewithmuh)
 
 - 💬 Ask me about ** DevOps, AWS, React, Django, Python, JavaScript**
 
