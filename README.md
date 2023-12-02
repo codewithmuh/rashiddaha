@@ -5,7 +5,7 @@
 
 
 
-
+- 🤝  Let's Connect With me on [LinkedIn](https://www.linkedin.com/in/muhammad-rashid-daha/)
 - 👨‍💻 All of my public projects are available at [Github](https://github.com/rashiddaha)
 
 
